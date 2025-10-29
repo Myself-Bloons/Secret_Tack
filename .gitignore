@@ -1,0 +1,23 @@
+## Build artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+
+## IDE files
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Target files (should be in parent directory)
+*.targets
+
+## Other
+*.log
+*.rar
+*.zip

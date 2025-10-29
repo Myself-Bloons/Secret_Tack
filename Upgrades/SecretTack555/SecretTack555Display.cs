@@ -1,0 +1,38 @@
+using BTD_Mod_Helper.Api.Display;
+using BTD_Mod_Helper.Extensions;
+using Il2CppAssets.Scripts.Models.Towers;
+using Il2CppAssets.Scripts.Unity.Display;
+using Il2CppAssets.Scripts.Models.TowerSets;
+using Il2CppAssets.Scripts.Unity;
+
+namespace SecretTack.Upgrades.SecretTack555;
+
+public class SecretTack555Display : ModTowerDisplay<SecretTack>
+{
+    public override string BaseDisplay
+    {
+        get
+        {
+            var tackZone = Game.instance.model.GetTowerFromId("TackShooter-005");
+            if (tackZone != null)
+            {
+                return tackZone.display.guidRef;
+            }
+
+            return GetDisplay(TowerType.TackShooter);
+        }
+    }
+
+    public override float Scale => 1.5f;
+
+    public override bool UseForTower(int[] tiers)
+    {
+        return tiers[0] == 5 && tiers[1] == 5 && tiers[2] == 5;
+    }
+
+    public override void ModifyDisplayNode(UnityDisplayNode node)
+    {
+        SetMeshTexture(node, "SecretTack555Display");
+        node.transform.localScale *= 1.5f;
+    }
+}
