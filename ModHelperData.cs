@@ -8,7 +8,7 @@ public static class ModHelperData
     public const string RepoOwner = "Myself-Bloons";
     public const string RepoName = "The-Secret-Tack";
     public const string Author = "Myself";
-    public const string WorksOnVersion = "51.1";
+    public const string WorksOnVersion = "51.2";
     public const string DllName = "SecretTack.dll";
     public const string Icon = "Icon.png";
 }
