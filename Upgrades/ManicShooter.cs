@@ -9,7 +9,7 @@ namespace SecretTack.Upgrades;
 
 public class ManicShooter : ModParagonUpgrade<SecretTack>
 {
-    public override int Cost => 950000;
+    public override int Cost => 850000;
     public override string DisplayName => "Manic Shooter";
     public override string Description => "LAG ALERT. Ultimate Bullet Hell";
     public override string Icon => "ManicShooter-Icon";
