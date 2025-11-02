@@ -40,8 +40,8 @@ public class Main : BloonsTD6Mod
                         "• <b>50x Pierce</b> - Projectiles hit 50x more bloons!\n" +
                         "• <b>1.2x Projectile Speed</b> - Bullets fly 20% faster\n" +
                         "• <b>Camo Detection</b> - Can see and hit camo bloons\n" +
-                        "• <b>Hits All Bloon Types</b> - No immunities!</size>\n\n" +
-                        "<size=46><color=yellow><b>Time to absolutely ANNIHILATE!</b></color></size>",
+                        "• <b>Hits All Bloon Types</b> - No Bloons are immmune!</size>\n\n" +
+                        "<size=46><color=yellow><b>Time for the REAL BULLET HELL!</b></color></size>",
                         new System.Action(() => { }),
                         "OK",
                         null,
