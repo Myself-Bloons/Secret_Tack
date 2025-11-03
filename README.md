@@ -5,8 +5,8 @@
 </a>
 
 </h1>
-<h3 align="center">A powerful custom tower mod for Bloons TD 6 that introducess The Secret Tack - a versatile tack shooter with unique ultimate tier 5 upgrades and special 5-5-5 crosspath bonuses to try to replicate a Paragon behaviour!</h3>
-<h3 align="center">This being my first tower the visuals suck they do not change between tiers and paths but do change for the "Paragon Like Feature" when ultimate crosspathing to 5-5-5</h3>
+<h3 align="center">A powerful custom tower mod for Bloons TD 6 that introducess The Secret Tack - a versatile tack shooter with unique ultimate tier 5 upgrades and special 5-5-5 crosspath bonus.</h3>
+<h3 align="center">This being my first tower the visuals suck they do not change between tiers and paths but do change for the when ultimate crosspathing to 5-5-5</h3>
 <h1 align="center">The Secret Tack</h1>
 
 
@@ -19,9 +19,10 @@
   - **Bloon Solver** (Top Path) - Shoots 12 glue-solving projectiles
   - **MAD** (Middle Path) - Fires 12 MOAB-destroying projectiles
   - **Superstorm** (Bottom Path) - Unleashes 4 devastating superstorms
-- **Ultimate CrossPathing To Achieve Paragon Effect**: Achieve the legendary **5-5-5** upgrade combination!
+- **Ultimate CrossPathing To Achieve Secret 5-5-5**: Achieve the legendary **5-5-5** upgrade combination!
 - **Achievement Popup**: Epic notification when you unlock 5-5-5
 - **Extreme Power**: Massively boosted stats for the ultimate crosspath
+- Paragon workks
 
 
 ### Required Mods (for 5-5-5 functionality Paragon Like)
@@ -43,15 +44,3 @@
 ## 🙏 Credits
 
 - **doombubbles** - Ultimate CrossPathing and PathPlusPlus mods
-
-## 📞 Support
-
-- **Issues**: Open an issue on GitHub
-- **Questions**: Ask in the BTD6 Mods & Discussion Discord
-- **Updates**: Watch this repository for new releases
-
----
-
-**Made with ❤️ for the BTD6 modding community**
-
-*Enjoy the ultimate bullet hell experience!* 🎯✨
